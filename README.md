@@ -5,4 +5,4 @@ Monitoring modules program using C++ language
 make && ./ft_gkrellm [the name of the module you need]
 ```
 # inAction
-![](https://raw.githubusercontent.com/vnekhay/Gkrellm/master/Gkrellm_gif.gif)
+![](https://raw.githubusercontent.com/vnekhay/Gkrellm/master/GKrellM_gif.gif)
